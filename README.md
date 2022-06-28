@@ -1,1 +1,1 @@
-# Responsive react.js navigation bar created with vite.js
+# Responsive react.js navigation bar created with Vite
